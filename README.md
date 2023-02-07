@@ -20,5 +20,3 @@ I'm a Software Engineer,Front-End web developer, and Web designer who currently 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferrari-coder&show_icons=true&include_all_commits=true&hide_border=true" alt="Feranmi GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari-coder&langs_count=10&layout=compact&hide_border=true" alt="Feranmi's GitHub stats" /> |
 | ------------- | ------------- |
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferrari-coder&show_icons=true&include_all_commits=true&hide_border=true" alt="Feranmi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari-coder&langs_count=10&layout=compact&hide_border=true" alt="Feranmi's GitHub stats" /> |
-| ------------- | ------------- |
