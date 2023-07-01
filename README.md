@@ -4,14 +4,14 @@
 
 
 
-I'm a Software Engineer,Front-End web developer, and Web designer who currently is studying at AltSchool School of engineering (https://thealtschool.com/). I'm passionate about sharing knowledge, documentation, web engineering, learning new things, headless commerce, and others. I'm also very passionate about front-end engineering, build useful [open-source projects](https://github.com/Ferrari-coder), speak at some meetups/conferences, build technical communities...
+I'm a Software Engineer, Front-End web developer, and Web designer. I'm passionate about sharing knowledge, documentation, web engineering, learning new things, headless commerce, and others. I'm also very passionate about front-end engineering, building useful [open-source projects](https://github.com/Ferrari-coder), speaking at some meetups/conferences, and building technical communities...
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: Her/She
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 My stack is HTML, CSS, JavaScript, Reactjs, VUE, SASS, TailwindCSS and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, jobs and entry-level opportunities.
+- 🌱 My stack is HTML, CSS, JavaScript, Reactjs, VUE, SASS, TailwindCSS, and Python.
+- 😊 I’m looking for help with open source projects, hackathons, internships, jobs, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1VkeUDmbzfpXODvW3hPhRlcLQhFaWSBlC/view?usp=share_link) and contact me by emailing [GET IN TOUCH](mailto:oluwaferanmiaiyegbusi@gmail.com).
 
