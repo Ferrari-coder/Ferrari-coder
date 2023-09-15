@@ -13,7 +13,7 @@ I'm a Software Engineer, Front-End web developer, and Web designer. I'm passiona
 - 🌱 My stack is HTML, CSS, JavaScript, Reactjs, VUE, SASS, TailwindCSS, and Python.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, jobs, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1nV71BV1r1R7vMgp9-RI2prrsO35Fv88D/view) and contact me by emailing [GET IN TOUCH](mailto:oluwaferanmiaiyegbusi@gmail.com).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1ZuUDMwxS7G2lbrzBj1wUyQX0GTSFhfD5/view?usp=drive_link) and contact me by emailing [GET IN TOUCH](mailto:oluwaferanmiaiyegbusi@gmail.com).
 
 ---
 
